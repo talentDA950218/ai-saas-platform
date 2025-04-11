@@ -34,9 +34,9 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={sora.className} suppressHydrationWarning={true}>
         <Provider store={store}>
-          <AuthProvider>
+          {/* <AuthProvider> */}
             {children}
-          </AuthProvider>
+          {/* </AuthProvider> */}
         </Provider>
       </body>
     </html>
