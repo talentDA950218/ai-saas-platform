@@ -26,7 +26,6 @@
   - react-select
   - react-slick
   - react-tooltip
-  - typed.js
 
 ### Advanced Version
 - Next.js v14 App Router with TypeScript
