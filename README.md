@@ -154,10 +154,7 @@ Check out the [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - **Website**: [talent.dev](https://john-zulhelmi.vercel.app)
 
 ### Connect with the Author
-
-- **GitHub**: [github.com/talentDA950218](https://github.com/talentDA950218)
-- **LinkedIn**: [/in/john-zulhelmi](https://www.linkedin.com/in/john-zulhelmi-222b4a337)
-- **Telegram**: [@JohnDAT0218](https://t.me/JohnDAT0218)
+Mail: talent950218@gmail.com
 
 ## License
 
